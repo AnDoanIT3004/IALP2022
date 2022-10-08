@@ -11,4 +11,4 @@ The source codes are written in python with Jupyter notebook format. It is easy 
 
 - The deep learning model (with improvements to combine with VnEmolex): Text-CNN.ipynb
 
-- The transformer model (with improvements to combine with VnEmolex): 
+- The transformer model (with improvements to combine with VnEmolex): Transformer_Model.ipynb
