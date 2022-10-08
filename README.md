@@ -7,6 +7,6 @@ Please preview and download the datasets used: UIT-VSMEC, UIT-VSFC(https://githu
 
 The source codes are written in python with Jupyter notebook format. It is easy to run by Jupyter notebook or Google colab.
 
-- Processing method to combine datasets (UIT-VSMEC, UIT-VSFC, ViHSD) with Lexicon emotion: VnEmolex.ipynb
+- Processing method to combine datasets (UIT-VSMEC, UIT-VSFC, ViHSD) with Lexicon emotion: Commbined_with_VnEmolex.ipynb
 
 - 
